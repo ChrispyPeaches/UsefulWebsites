@@ -1,3 +1,3 @@
 # UsefulWebsites
 
-[text link with title](https://duckduckgo.com "DDG Home")
+[Find RPis to buy](https://rpilocator.com)
